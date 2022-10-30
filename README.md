@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello There!
 
-<!--
-**GeorgeCiesinski/GeorgeCiesinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github. I am a programmer who loves learning new programming languages and studying across different fields. I have been programming since first year high school where I learned visual basic for robotics, and basic web development. Currently, I am spending all of my free time studying full-stack development using [The Odin Project](https://www.theodinproject.com) so that I have the skills necessary to break into the industry. As someone who has also gamed for much of their life, one of my hobbies is to code Unity projects using C#. It has given me a great appreciation for game developers as well as the huge amount of effort that goes into creating even simple indie games. What can I say, coding is awesome and gives me a really good feeling of accomplishment when I overcome a challenge after days or weeks of effort. 
 
-Here are some ideas to get you started:
+### Programming Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![python](https://img.shields.io/badge/Python-3.x-blue)
+![javascript](https://img.shields.io/badge/Javascript-ES2015-yellow)
+![HTML](https://img.shields.io/badge/HTML-5-red)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![C#](https://img.shields.io/badge/C%23-9-indigo)
+
+### Links
+
+[Portfolio](https://georgeciesinski.me/)
+[Blog](https://georgeciesinski.me/blog/)
+[Stack Overflow](https://stackoverflow.com/users/2665812/georgeciesinski)
