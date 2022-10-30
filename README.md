@@ -16,13 +16,6 @@ Welcome to my Github. I am a programmer who loves learning new programming langu
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
 ![C#](https://img.shields.io/badge/C%23-9-indigo)
 
-### Links
-
-* [Portfolio](https://georgeciesinski.me/)
-* [Resume](https://georgeciesinski.me/resume/)
-* [Blog](https://georgeciesinski.me/blog/)
-* [Stack Overflow](https://stackoverflow.com/users/2665812/georgeciesinski)
-
 ### Credits
 
 * [Visitor Counter](https://visitor-badge.glitch.me/#)
