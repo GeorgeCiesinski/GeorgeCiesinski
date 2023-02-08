@@ -19,4 +19,6 @@ Welcome to my Github. I am a programmer who loves learning new programming langu
 ### Credits
 
 * [Visitor Counter](https://visitor-badge.glitch.me/#)
-* [Cyberpunk Gif](https://giphy.com/gifs/perfect-loops-pVGsAWjzvXcZW4ZBTE)
+* [Cyberpunk Gif from Giphy](https://www.reddit.com/r/gifs/comments/4vy4yo/pixel_art_futuristic_city/)
+
+
