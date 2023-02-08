@@ -5,7 +5,7 @@
 Welcome to my Github. I am a programmer who loves learning new programming languages and studying across different fields. I studied Robotics & Automation in college and fell in love with programming. Currently, I am spending all of my free time learning full-stack development while I search for work. 
 
 <p align="center">
-  <img width="100%" src="https://media4.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif?cid=ecf05e477ncsqyzqe178nyriskss3ddzik0veg8c7uno1px1&rid=giphy.gif&ct=g">
+  <img width="100%" src="https://media0.giphy.com/media/NKEt9elQ5cR68/giphy.gif?cid=ecf05e4756bl5nak75hcjw33mvpe8lf1w2k0njhbyr6d5www&rid=giphy.gif&ct=g">
 </p>
 
 ### Programming Languages
