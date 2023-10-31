@@ -1,7 +1,5 @@
 ## Hello World!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=GeorgeCiesinski&left_color=green&right_color=red)
-
 Welcome to my Github. I am a programmer who loves learning new programming languages and studying across different fields. I studied Robotics & Automation in college and fell in love with programming. Currently, I am a Web Developer at Humber College in Toronto, Canada. 
 
 To anyone who wants to become a developer, I highly recommend [The Odin Project](https://www.theodinproject.com) which taught me everything I needed to land this job for the low low price of $FREE. If you're into full-stack development and are willing to put in the effort to learn, check it out!
