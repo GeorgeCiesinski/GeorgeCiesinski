@@ -10,10 +10,12 @@ To anyone who wants to become a developer, I highly recommend [The Odin Project]
 
 ### Programming Languages
 
-![python](https://img.shields.io/badge/Python-3.x-blue)
 ![javascript](https://img.shields.io/badge/Javascript-ES2015-yellow)
+![PHP](https://img.shields.io/badge/PHP-8.3-mediumpurple)
 ![HTML](https://img.shields.io/badge/HTML-5-red)
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
+![SASS](https://img.shields.io/badge/Dart-SASS-hotpink)
+![python](https://img.shields.io/badge/Python-3.x-blue)
 ![C#](https://img.shields.io/badge/C%23-9-indigo)
 
 ### Credits
