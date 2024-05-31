@@ -20,7 +20,4 @@ To anyone who wants to become a developer, I highly recommend [The Odin Project]
 
 ### Credits
 
-* [Visitor Counter](https://visitor-badge.glitch.me/#)
 * [Cyberpunk Gif from Giphy](https://www.reddit.com/r/gifs/comments/4vy4yo/pixel_art_futuristic_city/)
-
-
