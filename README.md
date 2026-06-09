@@ -10,7 +10,7 @@ I studied Robotics & Automation in college and fell in love with programming. Af
 
 ### Programming Languages
 
-![sql](https://img.shields.io/badge/SQL-blue)
+![mysql](https://img.shields.io/badge/MySQL-8.4_LTS-blue)
 ![javascript](https://img.shields.io/badge/Javascript-ES2015-yellow)
 ![PHP](https://img.shields.io/badge/PHP-8.3-mediumpurple)
 ![HTML](https://img.shields.io/badge/HTML-5-red)
