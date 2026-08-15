@@ -4,9 +4,7 @@
   <img width="100%" src="https://media0.giphy.com/media/NKEt9elQ5cR68/giphy.gif?cid=ecf05e4756bl5nak75hcjw33mvpe8lf1w2k0njhbyr6d5www&rid=giphy.gif&ct=g">
 </p>
 
-Welcome to my Github. I am a full stack developer working out of Toronto, Canada. 
-
-I studied Robotics & Automation in college and fell in love with programming. After this, I learned full stack development using [The Odin Project](https://www.theodinproject.com). 
+Welcome to my Github. I am a software developer working out of Toronto, Canada. Check out my projects!
 
 ### Programming Languages
 
